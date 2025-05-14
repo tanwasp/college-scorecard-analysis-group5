@@ -1,11 +1,11 @@
 # Loan Outcomes Among Pell Grant Recipients: A Comparison of HBCUs and Non-HBCUs
-In this project, we investigate the Loan Default and Repayment rate among Pell
-Grant Students in HBCUs and non-HBCUs. We also go on to investigate how loan debt
+In this project, we investigated the Loan Default and Repayment rate among Pell
+Grant Students in HBCUs and non-HBCUs. We also went on to investigate how loan debt
 differ by HBCU status. Then we analyzed how loan debt is associated with loan default
 and repayment rate while controlling for institutional characteristics, such as 
-net cost, admission rate, etc. Thereafter, we go on to build a model using synthetic
+net cost, admission rate, etc. Thereafter, we went on to build a model using synthetic
 data using predict loan default for Pell Grant students. The aim of this project 
-is to gain a deeper understanding of the relationship between Pell Grant debt and
+was to gain a deeper understanding of the relationship between Pell Grant debt and
 financial outcomes and inform the creation of more equitable financial aid policies
 for low income students, especially in institutions that are underfunded. This 
 will help stuents attain higher financial security and decreasing financial burdens
